@@ -1,2 +1,0 @@
-# HookcounterBasic
-Created with CodeSandbox
